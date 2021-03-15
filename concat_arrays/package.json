@@ -1,0 +1,15 @@
+{
+  "name": "concat_arrays_test_dep",
+  "version": "1.0.3",
+  "description": "Concatenate arrays using lodash methos. Test purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "lodash": "4.0.0",
+    "momentjs": "^2.0.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "root-project-dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concat_arrays_test_dep": "^1.0.3",
+    "fs": "0.0.1-security",
+    "jpeg-js": "^0.3.5",
+    "test-dep-library": "^1.0.7"
+  }
+}
